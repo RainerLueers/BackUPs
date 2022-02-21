@@ -1,7 +1,6 @@
 ---
 title: BackUPs
 ---  
-![](Logo_BackUPs.jpg)
 
 Legen Sie beliebig viele Sicherungsprojekte an und erstellen Sie Ihre Backups  
 per Knopfdruck wann immer Sie wollen in wenigen Sekunden mit der kostenlosen  
