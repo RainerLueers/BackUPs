@@ -11,6 +11,9 @@ Die Backup-Lösung überzeugt durch ihren bewußt minimalistischen Funktionsumfa
 Benutzerfreundlichkeit und intuitive Bedienung erleichtern es, wichtige Daten
 regelmäßig nach Ihren Vorgaben zu sichern.  
 
+![](backups_frame.png)  
+*Das Hauptfenster*  
+
 Sie können BackUPs **kostenlos** herunterladen und nutzen.  
 
 <a href="BackUPs_install.zip">BackUPs downloaden</a>  
