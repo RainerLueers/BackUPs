@@ -14,6 +14,14 @@ regelmäßig nach Ihren Vorgaben zu sichern.
 ![](backups_frame.png)  
 *Das Hauptfenster*  
 
+## Systemvoraussetzungen
+
+BackUPs wurde in Java mit dem JDK 17.01 programmiert und kann in jeder Umgebung ausgeführt
+werden, die ein Java Runtime Environment (JRE) der Version 17.01 oder höher bereitstellt.
+BackUPs wurde unter **Ubuntu 21.10** und **Windows 10** erfolgreich getestet.
+
+## Download
+
 Sie können BackUPs **kostenlos** herunterladen und nutzen.  
 
 <a href="BackUPs_install.zip">BackUPs downloaden</a>  
